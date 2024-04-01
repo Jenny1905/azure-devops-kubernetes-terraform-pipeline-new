@@ -20,7 +20,7 @@ steps:
     backendServiceArm: 'azure-resorce-manager-service-connection'
     ensureBackend: true
     backendAzureRmResourceGroupName: 'terraform-backend-rg'
-    backendAzureRmResourceGroupLocation: 'india'
+    backendAzureRmResourceGroupLocation: 'westeurope'
     backendAzureRmStorageAccountName: 'storageaccountshiw1905'
     backendAzureRmContainerName: 'storageaccountshiwcontainer'
     backendAzureRmKey: 'k8s-dev.tfstate'
